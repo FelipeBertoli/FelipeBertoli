@@ -34,12 +34,12 @@
 
 <div align = "center">
   <h3> Ferramentas e Tecnologias </h3>
-<img src="https://img.shields.io/badge/Python-black?&style=plastic&logo=python&logoColor=3776AB"/> 
-<img src="https://img.shields.io/badge/JavaScript-333333?&style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/-black?&style=plastic&logo=python&logoColor=3776AB"/> 
+<img src="https://img.shields.io/badge/-333333?&style=plastic&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/.NET-black?&style=plastic&logoColor=512BD4"/>
-<img src="https://img.shields.io/badge/TypeScript-333333?&style=plastic&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/HTML5-black?&style=plastic&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSharp-333333?&style=plastic&logo=csharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/-333333?&style=plastic&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/-black?&style=plastic&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/-333333?&style=plastic&logo=csharp&logoColor=239120"/>
 </div>
 
 <h2>
