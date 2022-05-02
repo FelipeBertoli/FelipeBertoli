@@ -52,3 +52,5 @@
 <img src="https://img.shields.io/badge/Angular-white?&style=plastic&logo=angular&logoColor=DD0031"/> 
 	
 </div>
+<div align = "center">	
+<img src="https://miro.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" />
