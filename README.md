@@ -41,7 +41,8 @@
 <img src="https://img.shields.io/badge/HTML5-black?&style=plastic&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSharp-333333?&style=plastic&logo=csharp&logoColor=239120"/>
 </div>
-	
+
+<h2>
 <div align = "center">
 <img src="https://img.shields.io/badge/VisualStudio-white?&style=plastic&logo=visualstudio&logoColor=5C2D91"/> 
 <img src="https://img.shields.io/badge/VSCode-white?&style=plastic&logo=visualstudiocode&logoColor=007ACC"/> 
@@ -50,7 +51,10 @@
 <img src="https://img.shields.io/badge/Photoshop-white?&style=plastic&logo=adobephotoshop&logoColor=31A8FF"/> 
 <img src="https://img.shields.io/badge/MySQL-white?&style=plastic&logo=mysql&logoColor=F46D01"/> 
 <img src="https://img.shields.io/badge/Angular-white?&style=plastic&logo=angular&logoColor=DD0031"/> 
-	
 </div>
+</h2>
+
 <div align = "center">	
+<h2>
 <img src="https://miro.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif" />
+</h2>
