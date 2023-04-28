@@ -22,7 +22,7 @@
 &emsp;	int idade = 19; 	<br>
 &emsp;	string sonho = "Desenvolvedor Full Stack";	<br>
 &emsp;	static void Main(string [ ] args) {	<br>
-&emsp;&emsp;&emsp;&emsp;  Console.WriteLine("Existe mais de um caminho para o topo da montanha") 	<br>
+&emsp;&emsp;&emsp;&emsp;  System.out.println("Existe mais de um caminho para o topo da montanha") 	<br>
 &emsp;&emsp;&emsp;&emsp;  }	<br>
 &emsp;&emsp; }  </h4>
 <h3>  }  </h3>	
