@@ -17,7 +17,7 @@
 </div>
 	  
 <h3> namespace FELIPE BERTOLI {</h3>
-<h4> public void Programador (	) {	<br>
+<h4> public Programador (	) {	<br>
 &emsp;  string nome = 'Felipe';		<br>
 &emsp;	int idade = 19; 	<br>
 &emsp;	string sonho = "Desenvolvedor Full Stack";	<br>
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-grey?&style=plastic&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/-black?&style=plastic&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/-grey?&style=plastic&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/.NET-black?&style=plastic&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/-black?&style=plastic&logo=java&logoColor=512BD4"/>
 <img src="https://img.shields.io/badge/-grey?&style=plastic&logo=csharp&logoColor=239120"/> <br>
 &nbsp;&nbsp;&emsp;<img src="https://img.shields.io/badge/VisualStudio-white?&style=plastic&logo=visualstudio&logoColor=5C2D91"/> 
 <img src="https://img.shields.io/badge/VSCode-white?&style=plastic&logo=visualstudiocode&logoColor=007ACC"/> 
