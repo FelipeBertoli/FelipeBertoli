@@ -28,18 +28,20 @@
 
 <h2> Ferramentas e Tecnologias </h2>
 <div align = "center">
-&emsp;&emsp;<img src="https://img.shields.io/badge/-black?&style=plastic&logo=python&logoColor=3776AB"/> 
-<img src="https://img.shields.io/badge/-grey?&style=plastic&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/-black?&style=plastic&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/-grey?&style=plastic&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/-black?&style=plastic&logo=java&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/-grey?&style=plastic&logo=csharp&logoColor=239120"/> <br>
-&nbsp;&nbsp;&emsp;<img src="https://img.shields.io/badge/VisualStudio-white?&style=plastic&logo=visualstudio&logoColor=5C2D91"/> 
-<img src="https://img.shields.io/badge/VSCode-white?&style=plastic&logo=visualstudiocode&logoColor=007ACC"/> 
-<img src="https://img.shields.io/badge/Laragon-white?&style=plastic&logo=laragon&logoColor=23C8D2"/> <br>
-&emsp;&emsp;<img src="https://img.shields.io/badge/Photoshop-white?&style=plastic&logo=adobephotoshop&logoColor=31A8FF"/> 
-<img src="https://img.shields.io/badge/MySQL-white?&style=plastic&logo=mysql&logoColor=F46D01"/> 
-<img src="https://img.shields.io/badge/Angular-white?&style=plastic&logo=angular&logoColor=DD0031"/> 
-<br><br></div>
+&emsp;&emsp;<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 	
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
+
+&nbsp;&nbsp;&emsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
+	
 	
 <div align = "center"><h2><img src="https://miro.medium.com/max/800/0*VV3Nmxgv3KX4sLhr.gif"/></h2>
