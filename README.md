@@ -3,14 +3,23 @@
 <img align = "right" src="https://avatars.githubusercontent.com/u/103579021?s=400&u=1961e651a93d8a3dfcae530f17cdf415a693ff37&v=4" width="250px" height="250px"/><div>
 	
 <div align = "center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipebertoli)
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543984331545)
-[![GMAIL](https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](https://wa.me/5543984331545)
+<a href="https://github.com/FelipeBertoli" alt="github" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+<a href="https://www.linkedin.com/in/felipebertoli" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:felipebertolioliveira@gmail.com" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
+</a>
+<a href="https://wa.me/5543984331545" alt="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/>
+</a>
 </div>
+	  
 	  
 <h4> public Programador (	) {	<br>
 &emsp;  string nome = 'Felipe';		<br>
-&emsp;	int idade = 19; 	<br>
+&emsp;	int idade = 21; 	<br>
 &emsp;	string sonho = "Desenvolvedor Full Stack";	<br>
 &emsp;	static void Main(string [ ] args) {	<br>
 &emsp;&emsp;&emsp;&emsp;  System.out.println("Existe mais de um caminho para o topo da montanha") 	<br>
