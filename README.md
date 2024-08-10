@@ -36,6 +36,7 @@
 <img class="skill-item" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white"> 
 <img class="skill-item" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img class="skill-item" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
+<br>
 <img class="skill-item" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img class="skill-item" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> 
 <img class="skill-item" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
